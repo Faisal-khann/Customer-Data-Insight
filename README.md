@@ -15,10 +15,10 @@
    * <b>Average Work Experience:</b> 4.10 years.
    * <b>Average Spending Score:</b> 50.96 (on a scale of 1-100).
 
-## 📸 Sample Dashboard Preview:
+## 📸 Sample Dashboard Preview⬇️
 ![Image](https://github.com/user-attachments/assets/fa6885af-6ebf-463d-9ec8-440faa4fef7a)
 
-## Visualizations & Insights:
+## 📊 Visualizations & Insights⬇️
    1. <b>Spending Score by Gender (Donut Chart)</b> 
       * Males and females have nearly equal average spending scores (~50.94 vs. 50.97)
    2. <b>Spending Score by Family Size (Pie Chart)</b> 
@@ -34,11 +34,11 @@
       * <b>Senior Level</b> follows with a score of 48.27.
       * Other levels (Mid, Entry, Junior) have scores in the 49-52 range.
 
-## Filters (Right Side):
+## Filters (Right Side)⬇️
    * <p>Dropdown filters for <b>Profession</b>, <b>Family Size</b>, ,<b>Experience Level</b>, and <b>Gender</b>allow dynamic analysis based on different categories.
 </p>
 
-## Conclusion:
+## Conclusion⬇️
 <p>This dashboard provides valuable insights into how different demographics (age, gender, profession, experience level, and family size) influence spending behavior. Businesses can use this data to <b>target specific customer segments more effectively</b>.
 </p>
 
